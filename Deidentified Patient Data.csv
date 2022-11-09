@@ -1,0 +1,667 @@
+,Cohort,Age,Sex,Alive.or.Dead,OS,DFS,Diagnosis,T,N,M,AJCC.Stage,Grade,Tumor.size,Lymph.nodes,Preop.CA199,Neoadjuvant.Category,Adjuvant.Category,Lymphovascular.Category,Perineural.Category,Include,ECM.Category,Processed.DFS,Survivorship.Category
+1,Stanford,70,M,Alive,1335,454,PDAC,3,1,0,2b,0,2.5,13,2158,N.Neoadjuvant,,,,1,L.ECM,454,Good.Survivorship
+2,Stanford,78,M,Alive,1238,,PDAC,3,1,0,2b,1,3,20,152,N.Neoadjuvant,,,,1,L.ECM,,Good.Survivorship
+3,Stanford,83,M,Alive,1124,617,PDAC,3,0,0,2a,1,2.5,,725,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,617,Good.Survivorship
+4,Stanford,71,F,Alive,1295,1081,PDAC,3,1,0,2b,1,3,25,,N.Neoadjuvant,,,,1,L.ECM,1081,Good.Survivorship
+5,Stanford,82,F,Alive,1321,,PDAC,3,1,0,2b,2,0.7,25,,Y.Neoadjuvant,Y.Adjuvant,,,1,R.ECM,,Good.Survivorship
+6,Stanford,61,F,Alive,1286,1088,PDAC,3,1,0,2b,0,3,32,111,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,1088,Good.Survivorship
+7,Stanford,62,M,Dead,714,596,PDAC,3,1,0,2b,1,4.6,15,53704,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,596,Poor.Survivorship
+8,Stanford,68,F,Alive,1278,470,PDAC,3,1,0,2b,2,3.5,17,91,N.Neoadjuvant,Y.Adjuvant,,,1,R.ECM,470,Good.Survivorship
+9,Stanford,70,F,Dead,255,91,PDAC,3,1,0,2b,2,13,13,1743,Y.Neoadjuvant,,,,1,L.ECM,91,Poor.Survivorship
+10,Stanford,57,M,Dead,179,146,PDAC,2,1,0,2b,1,2.3,19,,Y.Neoadjuvant,N.Adjuvant,,,1,R.ECM,146,Poor.Survivorship
+11,Stanford,82,F,Alive,1127,,PDAC,1,0,0,1a,1,0.25,,,N.Neoadjuvant,,,,1,L.ECM,,Good.Survivorship
+12,Stanford,77,F,Alive,1098,1043,PDAC,3,1,0,2b,2,12.5,20,5921,N.Neoadjuvant,,,,1,L.ECM,1043,Good.Survivorship
+13,Stanford,62,F,Alive,1132,,PDAC,3,1,0,2b,,3,10,,N.Neoadjuvant,,,,1,L.ECM,,Good.Survivorship
+14,Stanford,,F,,539,,Pancreatic neuroendocrine tumor ,,,,,,,,,,,,,0,L.ECM,,
+15,Stanford,84,M,Alive,1058,,PDAC,3,0,0,2a,,2.8,,,N.Neoadjuvant,,,,1,R.ECM,,Good.Survivorship
+16,Stanford,65,M,Dead,774,532,PDAC,3,1,0,2b,2,1.5,18,2,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,532,Good.Survivorship
+17,Stanford,64,M,Dead,459,407,PDAC,3,1,0,2b,1,5,21,6,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,,1,R.ECM,407,Poor.Survivorship
+18,Stanford,81,F,Alive,1170,,PDAC,3,1,0,2b,1,2,14,6086,N.Neoadjuvant,,N.Lymphovascular,N.Perineural,1,R.ECM,,Good.Survivorship
+19,Stanford,72,F,Alive,339,82,PDAC,3,1,0,2b,1,3,20,17000,N.Neoadjuvant,,Y.Lymphovascular,Y.Perineural,1,L.ECM,82,
+20,Stanford,66,M,Dead,1717,392,Ampullary adenocarcinoma,2,1,0,2b,,1.6,,4,,Y.Adjuvant,,,0,L.ECM,392,Good.Survivorship
+21,Stanford,48,M,Dead,520,126,PDAC,3,1,0,2b,2,2.3,24,5897,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,126,Poor.Survivorship
+22,Stanford,48,M,Alive,1802,,Ampullary adenocarcinoma,2,0,0,1b,1,0.9,23,137,N.Neoadjuvant,,,,0,R.ECM,,Good.Survivorship
+23,Stanford,72,M,Dead,8,,PDAC,3,1,,2b,1,2.75,17,3036,N.Neoadjuvant,,Y.Lymphovascular,Y.Perineural,0,R.ECM,8,Poor.Survivorship
+24,Stanford,74,M,Dead,1438,767,PDAC,3,1,0,2b,1,3,19,259,N.Neoadjuvant,,Y.Lymphovascular,Y.Perineural,1,R.ECM,767,Good.Survivorship
+25,Stanford,77,F,Alive,2034,,PDAC,3,1,0,2b,2,2,19,2,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,,Good.Survivorship
+26,Stanford,82,F,Dead,48,,PDAC,3,1,0,2b,2,3.5,22,3361,N.Neoadjuvant,N.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,48,Poor.Survivorship
+27,Stanford,84,M,Dead,161,148,PDAC,3,1,0,2b,2,4,14,24000,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,148,Poor.Survivorship
+28,Stanford,57,F,Alive,1720,,Duodenal adenocarcinoma,4,1,0,3,0,2,16,107,N.Neoadjuvant,Y.Adjuvant,,,0,L.ECM,,Good.Survivorship
+29,Stanford,47,M,Dead,1344,221,PDAC,4,0,0,3,1,4,10,4857,Y.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,221,Good.Survivorship
+30,Stanford,49,F,Dead,1017,429,Ampullary adenocarcinoma,3,1,0,2b,,1.3,12,2,N.Neoadjuvant,,Y.Lymphovascular,,0,R.ECM,429,Good.Survivorship
+31,Stanford,62,M,Dead,1161,297,PDAC,3,1,0,2b,0,4,17,575,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,297,Good.Survivorship
+32,Stanford,76,M,Dead,270,231,PDAC,3,1,0,2b,2,3,23,253,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,231,Poor.Survivorship
+33,Stanford,71,M,Dead,1197,523,PDAC,3,1,0,2b,1,5.5,15,70,Y.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,523,Good.Survivorship
+34,Stanford,62,M,Dead,392,42,PDAC,2,1,0,2b,2,2.1,25,992,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,42,Poor.Survivorship
+35,Stanford,60,F,Alive,571,367,PDAC,2,2,0,3,,2.5,21,115,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,367,
+36,Stanford,74,F,Alive,655,31,PDAC,3,0,1,4,,,,385,Y.Neoadjuvant,N.Adjuvant,,,0,L.ECM,31,
+37,Stanford,80,F,Dead,171,,Duodenal adenocarcinoma,,,,,,,,,,,,,0,L.ECM,171,Poor.Survivorship
+38,Stanford,79,M,Dead,397,266,PDAC,1,1,0,2b,1,1.5,37,21,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,266,Poor.Survivorship
+39,Stanford,67,F,Alive,714,,Cholangiocarcinoma,,,,,,2.5,17,,N.Neoadjuvant,,,,0,R.ECM,,
+40,Stanford,76,F,Dead,210,195,PDAC,2,1,0,2b,1,3.1,22,279,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,195,Poor.Survivorship
+41,Stanford,78,M,Alive,619,346,PDAC,2,2,0,3,1,2.1,21,1387,Y.Neoadjuvant,Y.Adjuvant,,,1,R.ECM,346,
+42,Stanford,49,M,Alive,615,,PDAC,1,2,0,3,2,2,38,,N.Neoadjuvant,Y.Adjuvant,,,1,R.ECM,,
+43,Stanford,73,F,Alive,616,384,PDAC,2,0,0,1b,1,2.9,,2239,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,384,
+44,Stanford,74,F,Alive,517,408,Ampullary adenocarcinoma,3,0,0,2a,,2.6,,32,N.Neoadjuvant,Y.Adjuvant,,,0,L.ECM,408,
+45,Stanford,75,M,Alive,376,,PDAC,3,2,0,3,1,5.6,23,713,Y.Neoadjuvant,,Y.Lymphovascular,Y.Perineural,1,L.ECM,,
+46,Stanford,86,M,Alive,395,,PDAC,2,0,0,1b,1,2.7,,5,N.Neoadjuvant,,,,1,L.ECM,,
+47,Stanford,74,M,Alive,373,374,PDAC,2,2,0,3,0,4,27,628,Y.Neoadjuvant,,,,1,L.ECM,374,
+48,Stanford,72,M,Alive,980,,Duodenal adenocarcinoma,4,2,0,3,2,5.5,25,,N.Neoadjuvant,,,,0,L.ECM,,Good.Survivorship
+49,Stanford,67,M,Dead,260,,PDAC,3,1,0,2b,,7.2,,678,N.Neoadjuvant,,,,1,L.ECM,260,Poor.Survivorship
+50,Stanford,72,M,Dead,271,,PDAC,2,1,0,2b,,3,22,151,N.Neoadjuvant,,,,1,L.ECM,271,Poor.Survivorship
+51,Stanford,82,M,Dead,98,,PDAC,2,0,0,1b,,2.6,,,N.Neoadjuvant,N.Adjuvant,,,1,L.ECM,98,Poor.Survivorship
+52,Stanford,75,M,Alive,990,253,PDAC,2,0,0,1b,,3,,1378,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,253,Good.Survivorship
+53,Stanford,74,M,Alive,752,311,PDAC,3,0,1,4,,4.5,,,Y.Neoadjuvant,Y.Adjuvant,,,0,L.ECM,311,Good.Survivorship
+54,Stanford,46,F,Dead,142,45,PDAC,2,2,0,3,,4,15,1932,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,45,Poor.Survivorship
+55,Stanford,82,F,Alive,187,,PDAC,2,0,0,1b,0,3.6,,,,N.Adjuvant,,,1,L.ECM,,
+56,Stanford,71,F,Dead,239,,PDAC,2,2,0,3,,2.5,17,,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,239,Poor.Survivorship
+57,Stanford,71,F,Alive,768,,PDAC,2,2,0,3,2,3,15,353,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,,Good.Survivorship
+58,Stanford,51,M,Dead,626,460,PDAC,2,0,0,1b,2,2.4,,39,N.Neoadjuvant,Y.Adjuvant,,,1,R.ECM,460,Poor.Survivorship
+59,Stanford,67,F,Dead,597,504,PDAC,2,1,0,2b,,3,,689,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,504,Poor.Survivorship
+60,Stanford,90,F,Dead,180,104,PDAC,2,1,0,2b,2,4,24,19894,N.Neoadjuvant,N.Adjuvant,,,1,L.ECM,104,Poor.Survivorship
+61,Stanford,67,M,Alive,810,,PDAC,1,1,0,2b,,0.4,40,,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,,Good.Survivorship
+62,Stanford,58,M,Alive,840,689,PDAC,3,2,0,3,0,5.3,25,,N.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,689,Good.Survivorship
+63,Stanford,72,M,Alive,822,296,PDAC,2,1,0,2b,1,,18,,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,296,Good.Survivorship
+64,Stanford,71,F,Alive,762,,PDAC,3,1,0,2b,,6.5,13,,N.Neoadjuvant,,,,1,L.ECM,,Good.Survivorship
+65,Stanford,79,F,Alive,757,,PDAC,2,0,0,1b,1,2.1,,0,N.Neoadjuvant,N.Adjuvant,,,1,L.ECM,,Good.Survivorship
+66,Stanford,76,M,Dead,654,302,PDAC,2,0,0,1b,1,2.5,,156,Y.Neoadjuvant,Y.Adjuvant,,,1,L.ECM,302,Poor.Survivorship
+67,Stanford,75,F,Dead,434,328,PDAC,3,0,0,2a,,2.5,,,,,,,1,L.ECM,328,Poor.Survivorship
+68,Stanford,76,F,Alive,713,528,PDAC,2,0,0,1b,,2.1,,,,,,,1,L.ECM,528,
+69,Stanford,82,M,Alive,302,,PDAC,3,2,0,3,,5.2,26,,,Y.Adjuvant,,,1,L.ECM,,
+70,Stanford,61,M,,,,Duodenal adenocarcinoma,4,2,0,3,2,3,47,,,,Y.Lymphovascular,,0,R.ECM,,
+71,Stanford,72,F,Dead,233,182,PDAC,3,1,0,2b,1,2.5,16,3147,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,182,Poor.Survivorship
+72,Stanford,,,,,,,,,,,,,,,,,,,,L.ECM,,
+73,Stanford,78,F,Dead,616,,PDAC,3,1,0,2b,1,3,84,36.41,N.Neoadjuvant,,Y.Lymphovascular,Y.Perineural,1,L.ECM,616,Poor.Survivorship
+74,Stanford,84,M,Dead,316,,PDAC,3,1,0,2b,1,2.3,33,176,,,,Y.Perineural,1,R.ECM,316,Poor.Survivorship
+75,Stanford,76,F,Dead,287,,PDAC,3,1,,2b,2,2.5,54,,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,287,Poor.Survivorship
+76,Stanford,69,F,Dead,46,,PDAC,3,1,0,2b,0,5,20,,N.Neoadjuvant,N.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,46,Poor.Survivorship
+77,Stanford,67,F,Alive,216,,PDAC,4,1,0,3,0,4.5,19,27,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,,
+78,Stanford,70,M,Alive,951,461,PDAC,2,2,0,3,,2.1,44,16,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,461,Good.Survivorship
+79,Stanford,43,F,Alive,930,161,PDAC,2,2,0,3,,3.5,51,305,Y.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,161,Good.Survivorship
+80,Stanford,53,F,Dead,402,202,PDAC,1,1,0,2b,1,1.8,16,2,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,202,Poor.Survivorship
+81,Stanford,70,M,Dead,213,,PDAC,2,0,0,1b,1,2.7,31,,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,213,Poor.Survivorship
+82,Stanford,67,M,Alive,131,,PDAC,3,2,0,3,2,3.1,43,,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+83,Stanford,79,M,Alive,159,,PDAC,1,0,0,1a,0,1.4,33,1,N.Neoadjuvant,N.Adjuvant,Y.Lymphovascular,N.Perineural,1,L.ECM,,
+84,Stanford,69,M,Alive,145,,PDAC,3,1,0,2b,1,4.5,57,178,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+85,Stanford,76,M,Dead,286,52,PDAC,3,1,0,2b,2,5,22,274,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,52,Poor.Survivorship
+86,Stanford,62,M,Alive,503,,PDAC,2,2,0,3,0,2.5,26,71,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+87,Stanford,72,F,Alive,496,,PDAC,2,1,0,2b,1,2.1,50,221,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,N.Perineural,1,R.ECM,,
+88,Stanford,59,F,Alive,1216,,PDAC,2,2,0,3,1,3.7,24,325,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,,Good.Survivorship
+89,Stanford,88,F,Dead,599,482,PDAC,2,2,0,3,2,3.5,23,18970,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,482,Poor.Survivorship
+90,Stanford,78,F,Dead,546,200,PDAC,2,0,0,1b,2,2.4,26,61,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,200,Poor.Survivorship
+91,Stanford,69,M,Dead,394,352,PDAC,2,1,0,2b,0,2.7,17,,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,352,Poor.Survivorship
+92,Stanford,57,F,Alive,475,,PDAC,2,1,0,2b,1,3.2,29,96.1,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,,
+93,Stanford,49,M,,,,Adenosquamous carcinoma,3,1,0,2b,2,7.3,53,,,,N.Lymphovascular,N.Perineural,0,R.ECM,,
+94,Stanford,70,M,Alive,468,,PDAC,3,2,0,3,2,4.3,33,169,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+95,Stanford,69,F,Alive,431,,PDAC,2,2,0,3,1,2.7,20,1162,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,,
+96,Stanford,75,M,Alive,218,,PDAC,3,2,0,3,2,4.5,40,268,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,,
+97,Stanford,67,F,Alive,719,,PDAC,3,1,0,2b,1,5.1,33,30,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,,
+98,Stanford,,,,,,Cholangiocarcinoma,,,,,,,,,,,,,0,R.ECM,,
+99,Stanford,75,M,Alive,512,210,PDAC,1,1,0,2b,1,1.7,36,959,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,210,
+100,Stanford,77,M,Dead,504,,PDAC,3,0,0,2a,1,7.1,33,135,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,504,Poor.Survivorship
+101,Stanford,68,M,Dead,357,223,PDAC,3,1,0,2b,1,2.5,22,79.96,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,223,Poor.Survivorship
+102,Stanford,74,F,Alive,1735,,PDAC,3,1,0,2b,1,3,33,,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,,Good.Survivorship
+103,Stanford,26,F,Alive,1708,,PDAC,3,1,1,4,0,1.7,15,,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,0,L.ECM,,Good.Survivorship
+104,Stanford,47,M,Dead,247,152,PDAC,3,1,0,2b,0,3.5,29,30,Y.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,152,Poor.Survivorship
+105,Stanford,61,M,Alive,725,,PDAC,2,2,0,3,0,3.2,21,,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+106,Stanford,50,F,Alive,693,325,PDAC,2,2,0,3,0,3.1,13,10,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,325,
+107,Stanford,63,M,Dead,415,251,PDAC,2,0,0,1b,1,3.5,28,49,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,251,Poor.Survivorship
+108,Stanford,84,F,Alive,362,,PDAC,1,0,0,1a,0,1.7,19,94,N.Neoadjuvant,N.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,,
+109,Stanford,80,M,Dead,,,PDAC,3,0,0,2a,1,4,33,,N.Neoadjuvant,N.Adjuvant,N.Lymphovascular,Y.Perineural,0,R.ECM,,
+110,Stanford,66,M,Dead,1423,,Invasive colloid carcinoma,3,0,0,2a,1,12,30,99.41,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,N.Perineural,0,L.ECM,1423,Good.Survivorship
+111,Stanford,81,F,Alive,1600,,PDAC,3,1,0,2b,0,3,18,98.32,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,,Good.Survivorship
+112,Stanford,60,M,Dead,235,183,PDAC,2,2,0,3,1,2.8,31,153,Y.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,183,Poor.Survivorship
+113,Stanford,64,M,Alive,603,,PDAC,1,1,0,2b,0,1.9,26,767,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+114,Stanford,73,M,Alive,455,,PDAC,1,1,0,2b,1,1.9,29,63,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,,
+115,Stanford,72,M,Alive,67,,PDAC,1,0,0,1a,1,2,18,223,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,L.ECM,,
+116,Stanford,64,M,Dead,472,259,PDAC,3,1,0,2b,2,1.8,35,261.13,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,N.Perineural,1,R.ECM,259,Poor.Survivorship
+117,Stanford,66,M,Dead,1614,474,PDAC,3,1,0,2b,1,3.5,27,4278.79,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,474,Good.Survivorship
+118,Stanford,75,F,,,,PDAC,3,1,0,2b,2,2.5,30,9639,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,,0,R.ECM,,
+119,Stanford,61,F,Alive,1431,,PDAC,3,0,0,2a,0,5,20,50,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,L.ECM,,Good.Survivorship
+120,Stanford,70,F,Dead,1362,1321,PDAC,2,0,0,1b,0,2.9,36,166,N.Neoadjuvant,N.Adjuvant,N.Lymphovascular,,1,L.ECM,1321,Good.Survivorship
+121,Stanford,79,F,Dead,700,386,PDAC,3,0,0,2a,1,2.9,28,,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,386,Poor.Survivorship
+122,Stanford,73,M,Dead,226,164,PDAC,2,2,0,3,1,3.7,35,8062,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,164,Poor.Survivorship
+123,Stanford,65,F,Alive,253,211,PDAC,2,2,0,3,1,3.1,24,1533,N.Neoadjuvant,Y.Adjuvant,N.Lymphovascular,Y.Perineural,1,R.ECM,211,
+124,Stanford,50,F,,,,Cholangiocarcinoma,,,,,,,,,,,,,0,R.ECM,,
+125,UVA,77,F,Dead,1060,,PDAC,1,1,0,2b,2,0.5,29,93,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,1060,Good.Survivorship
+126,UVA,72,M,Dead,787,,PDAC,3,1,0,2b,1,3.5,31,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,787,Good.Survivorship
+127,UVA,59,M,Alive,1141,,PDAC,3,1,0,2b,2,2.3,12,25,Y.Neoadjuvant,N.Adjuvant,,N.Perineural,1,L.ECM,,Good.Survivorship
+128,UVA,70,F,Alive,1252,,PDAC,3,1,0,2b,0,4.6,15,41,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,,Good.Survivorship
+129,UVA,72,M,Alive,1351,,PDAC,2,0,0,1b,2,2.5,12,106,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,Good.Survivorship
+130,UVA,66,M,Alive,464,,PDAC,4,0,0,3,1,3.5,27,13,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,,
+131,UVA,72,M,Dead,469,276,PDAC,3,1,0,2b,2,3.9,38,51,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,276,Poor.Survivorship
+132,UVA,76,M,Dead,375,342,PDAC,3,1,0,2b,1,3.7,23,80,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,342,Poor.Survivorship
+133,UVA,71,M,Dead,459,,PDAC,1,2,0,3,1,1.5,26,2,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,459,Poor.Survivorship
+134,UVA,74,F,Dead,242,66,PDAC,2,1,0,2b,1,3.5,49,165,N.Neoadjuvant,N.Adjuvant,,N.Perineural,1,L.ECM,66,Poor.Survivorship
+135,UVA,70,M,Dead,560,523,PDAC,3,1,0,2b,1,4.5,36,351,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,523,Poor.Survivorship
+136,UVA,59,F,Dead,313,,PDAC,2,1,0,2b,0,2.1,15,192,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,313,Poor.Survivorship
+137,UVA,73,F,Alive,613,,PDAC,3,2,0,3,2,5.5,12,47,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,
+138,UVA,66,M,Dead,720,347,PDAC,2,2,0,3,2,3.5,33,63,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,347,Poor.Survivorship
+139,UVA,56,F,Dead,732,559,PDAC,2,1,0,2b,0,,12,136,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,559,Good.Survivorship
+140,UVA,61,F,Alive,1004,,PDAC,2,0,0,1b,0,3.1,12,2,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+141,UVA,82,F,Alive,747,639,PDAC,3,1,0,2b,2,7.7,22,340,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,639,Good.Survivorship
+142,UVA,90,M,Dead,390,,PDAC,2,2,0,3,2,3.4,24,192,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,390,Poor.Survivorship
+143,UVA,57,M,Alive,253,253,PDAC,2,1,0,2b,0,2.8,35,285,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,253,
+144,UVA,74,F,Alive,1002,,PDAC,2,1,0,2b,2,2.7,24,2964,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,,Good.Survivorship
+145,UVA,74,F,Alive,944,255,PDAC,3,1,0,2b,2,5.1,32,716,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,255,Good.Survivorship
+146,UVA,71,M,Alive,1029,,PDAC,2,1,0,2b,2,2.9,30,40,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+147,UVA,68,M,Dead,874,858,PDAC,3,1,0,2b,2,5.5,23,30,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,858,Good.Survivorship
+148,UVA,62,M,Dead,155,,PDAC,2,2,0,3,2,3.1,36,77,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,155,Poor.Survivorship
+149,UVA,73,M,Alive,1057,,Intraductal papillary-mucinous neoplasm with associated invasive carcinoma,3,2,0,3,1,5,38,58,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+150,UVA,66,F,Dead,122,,PDAC,2,2,0,3,0,3,15,2,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,122,Poor.Survivorship
+151,UVA,58,M,Dead,186,,PDAC,2,0,0,1b,2,3.5,23,16,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,186,Poor.Survivorship
+152,UVA,59,F,Alive,1047,,PDAC,2,1,0,2b,2,2.2,26,6,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+153,UVA,62,F,Dead,141,82,PDAC,3,1,0,2b,2,4.2,14,954,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,82,Poor.Survivorship
+154,UVA,68,M,Dead,851,,PDAC,3,1,0,2b,2,3.1,33,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,851,Good.Survivorship
+155,UVA,48,F,Dead,993,816,PDAC,1,0,0,1a,1,1.5,17,90,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,816,Good.Survivorship
+156,UVA,66,M,Dead,360,110,PDAC,1,1,0,2b,2,2,20,,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,110,Poor.Survivorship
+157,UVA,75,F,Dead,432,,PDAC,3,0,0,2a,1,2.7,23,,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,432,Poor.Survivorship
+158,UVA,70,M,Alive,1868,,PDAC,3,1,0,2b,2,2,32,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+159,UVA,60,F,Alive,1700,,PDAC,1,0,0,1a,1,1.5,34,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+160,UVA,71,F,Dead,315,,PDAC,3,0,0,2a,2,2.5,16,,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,315,Poor.Survivorship
+161,UVA,65,F,Dead,851,,PDAC,3,1,0,2b,2,2.4,12,,N.Neoadjuvant,N.Adjuvant,,N.Perineural,1,R.ECM,851,Good.Survivorship
+162,UVA,78,F,Alive,195,,PDAC,1,0,0,1a,2,2,29,,N.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,
+163,UVA,73,F,Dead,795,540,PDAC,3,0,0,2a,2,3,16,18,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,540,Good.Survivorship
+164,UVA,67,F,Dead,449,297,PDAC,2,0,0,1b,1,2.4,19,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,297,Poor.Survivorship
+165,UVA,80,F,Alive,1787,,PDAC,2,0,0,1b,1,2.5,23,88,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,,Good.Survivorship
+166,UVA,76,F,Alive,1718,,PDAC,3,1,0,2b,1,3,27,,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+167,UVA,59,M,Dead,74,,PDAC,1,0,0,1a,1,0.8,26,7,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,74,Poor.Survivorship
+168,UVA,79,F,Dead,450,,PDAC,3,0,0,2a,1,1.6,16,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,450,Poor.Survivorship
+169,UVA,85,M,Dead,798,351,PDAC,3,1,0,2b,2,2.5,28,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,351,Good.Survivorship
+170,UVA,61,F,Dead,1145,627,PDAC,3,0,0,2a,1,1.5,14,2,N.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,627,Good.Survivorship
+171,UVA,49,F,Dead,206,,PDAC,3,1,0,2b,2,2.2,9,,N.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,206,Poor.Survivorship
+172,UVA,56,F,Dead,1488,620,PDAC,1,1,0,2b,2,1.3,14,,N.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,620,Good.Survivorship
+173,UVA,55,F,Dead,95,,PDAC,2,0,0,1b,2,2,18,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,95,Poor.Survivorship
+174,UVA,66,F,Alive,1918,,PDAC,3,0,0,2a,2,3,15,3,N.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,Good.Survivorship
+175,UVA,48,M,Alive,1364,,PDAC,3,1,0,2b,2,4.2,25,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,,Good.Survivorship
+176,UVA,54,F,Dead,531,422,PDAC,3,1,0,2b,2,5.7,29,52,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,422,Poor.Survivorship
+177,UVA,76,F,Dead,1177,458,PDAC,2,0,0,1b,2,1,14,,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,458,Good.Survivorship
+178,UVA,66,F,Alive,1506,745,PDAC,2,0,0,1b,1,7.5,53,,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,745,Good.Survivorship
+179,UVA,48,M,Dead,365,,PDAC,3,0,0,2a,2,2.5,13,,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,365,Poor.Survivorship
+180,UVA,74,M,Dead,1016,868,PDAC,3,1,0,2b,2,3,27,468,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,868,Good.Survivorship
+181,UVA,56,M,Dead,335,,PDAC,3,1,0,2b,2,4,18,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,335,Poor.Survivorship
+182,UVA,61,M,Dead,118,,PDAC,3,1,0,2b,0,2.6,29,,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,118,Poor.Survivorship
+183,UVA,54,M,Dead,306,,PDAC,3,1,0,2b,2,8.5,25,,Y.Neoadjuvant,N.Adjuvant,,N.Perineural,1,L.ECM,306,Poor.Survivorship
+184,UVA,54,F,Alive,1567,,PDAC,1,0,0,1a,1,1.3,18,,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,Good.Survivorship
+185,UVA,53,F,Dead,430,208,PDAC,3,1,0,2b,2,3.7,14,46,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,208,Poor.Survivorship
+186,UVA,69,F,Alive,1035,,PDAC,2,0,0,1b,0,4,31,50,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,Good.Survivorship
+187,UVA,58,F,Alive,1019,809,PDAC,2,0,0,1b,1,2.9,30,569,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,809,Good.Survivorship
+188,UVA,57,F,Alive,1000,,PDAC,2,0,0,1b,2,2.8,39,48,N.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,Good.Survivorship
+189,UVA,75,M,Dead,344,203,PDAC,3,1,0,2b,2,6,22,73,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,203,Poor.Survivorship
+190,UVA,63,M,Alive,791,,PDAC,1,0,0,1a,0,1.4,49,4,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+191,UVA,68,F,Dead,908,381,PDAC,3,0,0,2a,,4.1,14,606,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,381,Good.Survivorship
+192,UVA,63,F,Dead,61,35,PDAC,3,2,0,3,1,4.5,28,1257,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,35,Poor.Survivorship
+193,UVA,51,F,Alive,851,,PDAC,1,0,0,1a,2,1.7,24,16,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+194,UVA,63,M,Alive,755,,Intraductal papillary-mucinous neoplasm with associated invasive carcinoma,2,0,0,1b,1,3.1,15,18,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,Good.Survivorship
+195,UVA,64,F,Alive,397,396,PDAC,2,0,0,1b,1,3.2,7,8,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,396,
+196,UVA,67,F,Dead,316,72,PDAC,3,0,0,2a,1,7.5,30,11,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,72,Poor.Survivorship
+197,UVA,85,M,Dead,429,214,PDAC,3,0,0,2a,2,4.5,6,115,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,214,Poor.Survivorship
+198,UVA,62,F,Alive,143,,PDAC,1,1,0,2b,,1.6,28,185,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,
+199,UVA,72,F,Alive,577,,Intraductal papillary-mucinous neoplasm with associated invasive carcinoma,3,1,0,2b,1,4.5,38,110,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,,
+200,UVA,54,M,Dead,139,112,PDAC,1,1,0,2b,2,1.4,19,10436,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,112,Poor.Survivorship
+201,UVA,78,F,Alive,446,,PDAC,1,0,0,1a,2,2,18,24,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,,
+202,UVA,64,F,Alive,476,,PDAC,2,0,0,1b,,3,23,2,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,,
+203,UVA,79,F,Alive,274,,Intraductal papillary-mucinous neoplasm with associated invasive carcinoma,1,1,0,2b,1,1.4,22,14,N.Neoadjuvant,N.Adjuvant,,N.Perineural,1,L.ECM,,
+204,UVA,60,F,Alive,520,247,PDAC,1,2,0,3,1,1.8,26,9,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,L.ECM,247,
+205,UVA,40,M,Alive,505,495,PDAC,2,1,0,2b,,3.4,27,4,Y.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,495,
+206,UVA,77,M,Dead,14,,PDAC,2,1,0,2b,,2.5,34,31,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,R.ECM,14,Poor.Survivorship
+207,UVA,47,M,Alive,378,,PDAC,3,1,0,2b,2,5.3,23,42,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,
+208,UVA,71,M,Dead,134,76,PDAC,2,1,0,2b,2,3.5,12,1522,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,76,Poor.Survivorship
+209,UVA,65,M,Dead,217,,PDAC,1,0,0,1a,2,1.8,10,2,Y.Neoadjuvant,N.Adjuvant,,N.Perineural,1,L.ECM,217,Poor.Survivorship
+210,UVA,53,M,Alive,397,,PDAC,1,1,0,2b,1,1.8,28,8,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,
+211,UVA,68,M,Dead,117,,PDAC,2,1,0,2b,1,,22,125,Y.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,117,Poor.Survivorship
+212,UVA,60,M,Alive,344,,PDAC,2,2,0,3,1,3.7,21,2,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,,
+213,UVA,47,M,Alive,360,,PDAC,1,1,0,2b,,1.7,9,16,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,L.ECM,,
+214,UVA,62,F,Alive,347,,PDAC,2,1,0,2b,2,2.5,2,871,N.Neoadjuvant,N.Adjuvant,,Y.Perineural,1,L.ECM,,
+215,UVA,64,F,Alive,300,,PDAC,2,0,0,1b,1,2.3,0,17,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,,
+216,UVA,56,M,Dead,321,253,PDAC,2,1,0,2b,2,3,28,231,Y.Neoadjuvant,N.Adjuvant,,N.Perineural,1,L.ECM,253,Poor.Survivorship
+217,UVA,54,F,Alive,274,,PDAC,1,0,0,1a,,0.9,23,4,Y.Neoadjuvant,Y.Adjuvant,,N.Perineural,1,R.ECM,,
+218,TMA,72,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+219,TMA,47,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,R.ECM,,
+220,TMA,49,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+221,TMA,45,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+222,TMA,38,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+223,TMA,54,M,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,R.ECM,,
+224,TMA,54,F,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+225,TMA,48,F,,,,PDAC,3,0,0,2b,0.5,,,,,,,,1,R.ECM,,
+226,TMA,47,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+227,TMA,54,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,R.ECM,,
+228,TMA,51,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,R.ECM,,
+229,TMA,47,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,R.ECM,,
+230,TMA,54,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,R.ECM,,
+231,TMA,62,F,,,,PDAC,4,0,0,3,0.5,,,,,,,,1,R.ECM,,
+232,TMA,34,M,,,,PDAC,3,0,0,2a,,,,,,,,,1,R.ECM,,
+233,TMA,41,F,,,,PDAC,3,0,0,2a,,,,,,,,,1,R.ECM,,
+234,TMA,41,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,R.ECM,,
+235,TMA,52,M,,,,PDAC,3,1,0,2a,0,,,,,,,,1,R.ECM,,
+236,TMA,58,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+237,TMA,58,M,,,,Mucinous adenocarcinoma,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+238,TMA,51,M,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+239,TMA,62,F,,,,PDAC,3,1,1,4,1,,,,,,,,0,R.ECM,,
+240,TMA,76,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+241,TMA,55,M,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,R.ECM,,
+242,TMA,57,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+243,TMA,42,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+244,TMA,40,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+245,TMA,54,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+246,TMA,60,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+247,TMA,39,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+248,TMA,64,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+249,TMA,53,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+250,TMA,57,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+251,TMA,48,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+252,TMA,76,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+253,TMA,52,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+254,TMA,53,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+255,TMA,55,M,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+256,TMA,49,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+257,TMA,,,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+258,TMA,64,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+259,TMA,57,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+260,TMA,72,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+261,TMA,42,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+262,TMA,47,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+263,TMA,44,M,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+264,TMA,59,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+265,TMA,57,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+266,TMA,67,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+267,TMA,72,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+268,TMA,55,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+269,TMA,58,F,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+270,TMA,68,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+271,TMA,60,M,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+272,TMA,60,M,,,,PDAC,2,1,0,2b,2,,,,,,,,1,R.ECM,,
+273,TMA,44,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+274,TMA,56,F,,,,PDAC,3,1,0,2b,2,,,,,,,,1,L.ECM,,
+275,TMA,45,F,,,,PDAC,3,2,0,3,1,,,,,,,,1,L.ECM,,
+276,TMA,41,M,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+277,TMA,56,M,,,,PDAC,2,1,0,2b,2,,,,,,,,1,R.ECM,,
+278,TMA,42,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+279,TMA,50,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+280,TMA,55,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+281,TMA,76,F,,,,PDAC,4,0,0,3,1,,,,,,,,1,L.ECM,,
+282,TMA,59,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+283,TMA,51,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+284,TMA,65,M,,,,PDAC,3,1,0,2b,,,,,,,,,1,R.ECM,,
+285,TMA,62,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+286,TMA,58,F,,,,PDAC,4,0,0,3,1,,,,,,,,1,R.ECM,,
+287,TMA,64,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+288,TMA,55,M,,,,PDAC,2,0,0,1b,2,,,,,,,,1,R.ECM,,
+289,TMA,60,M,,,,PDAC,1,0,0,1a,1.5,,,,,,,,1,R.ECM,,
+290,TMA,52,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,L.ECM,,
+291,TMA,51,F,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+292,TMA,62,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+293,TMA,76,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,L.ECM,,
+294,TMA,78,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+295,TMA,62,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+296,TMA,48,F,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+297,TMA,39,F,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+298,TMA,50,M,,,,PDAC,3,1,0,2b,2,,,,,,,,1,R.ECM,,
+299,TMA,68,F,,,,PDAC,2,0,0,1b,1.5,,,,,,,,1,R.ECM,,
+300,TMA,58,M,,,,PDAC,3,1,0,2b,2,,,,,,,,1,R.ECM,,
+301,TMA,65,M,,,,PDAC,2,0,0,1b,2,,,,,,,,1,R.ECM,,
+302,TMA,61,M,,,,PDAC,2,1,0,2b,2,,,,,,,,1,L.ECM,,
+303,TMA,56,F,,,,Undifferentiated carcinoma,3,0,0,2a,,,,,,,,,1,L.ECM,,
+304,TMA,73,M,,,,Undifferentiated carcinoma,3,0,0,2a,,,,,,,,,1,L.ECM,,
+305,TMA,60,F,,,,PDAC,2,1,1,4,2,,,,,,,,0,R.ECM,,
+306,TMA,,,,,,Adenosquamous carcinoma,,,,,,,,,,,,,1,L.ECM,,
+307,TMA,,,,,,Adenosquamous carcinoma,,,,,,,,,,,,,1,R.ECM,,
+308,TMA,,,,,,Squamous cell carcinoma,,,,,,,,,,,,,0,L.ECM,,
+309,TMA,,,,,,Carcinoid tumor,,,,,,,,,,,,,0,L.ECM,,
+310,TMA,,,,,,Atypical carcinoid tumor,,,,,,,,,,,,,0,L.ECM,,
+311,TMA,,,,,,Papillary cystic solid tumor,,,,,,,,,,,,,0,L.ECM,,
+312,TMA,42,M,,,,Neuroendocrine carcinoma,3,0,0,2a,,,,,,,,,0,L.ECM,,
+313,TMA,34,M,,,,Undifferentiated carcinoma,2,1,0,2b,,,,,,,,,1,L.ECM,,
+314,TMA,49,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,R.ECM,,
+315,TMA,65,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+316,TMA,42,M,,,,PDAC,2,1,0,2b,0,,,,,,,,1,L.ECM,,
+317,TMA,39,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+318,TMA,58,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+319,TMA,38,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+320,TMA,67,F,,,,PDAC,3,1,0,2b,0,,,,,,,,1,R.ECM,,
+321,TMA,46,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,R.ECM,,
+322,TMA,54,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,R.ECM,,
+323,TMA,58,F,,,,PDAC,3,1,0,2b,0,,,,,,,,1,L.ECM,,
+324,TMA,40,M,,,,PDAC,2,1,0,2b,0.5,,,,,,,,1,L.ECM,,
+325,TMA,41,M,,,,Mucinous adenocarcinoma,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+326,TMA,54,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+327,TMA,47,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+328,TMA,54,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+329,TMA,55,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+330,TMA,56,M,,,,Mucinous adenocarcinoma,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+331,TMA,58,M,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,R.ECM,,
+332,TMA,40,F,,,,PDAC,3,1,0,2b,0.5,,,,,,,,1,R.ECM,,
+333,TMA,62,F,,,,PDAC,4,0,0,3,0.5,,,,,,,,1,L.ECM,,
+334,TMA,54,F,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+335,TMA,50,F,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+336,TMA,55,M,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+337,TMA,48,F,,,,PDAC,3,0,0,2b,0.5,,,,,,,,1,L.ECM,,
+338,TMA,55,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+339,TMA,44,M,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+340,TMA,50,M,,,,PDAC,2,1,0,2b,0.5,,,,,,,,1,L.ECM,,
+341,TMA,55,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,R.ECM,,
+342,TMA,48,F,,,,PDAC,3,1,0,2b,0.5,,,,,,,,1,L.ECM,,
+343,TMA,80,M,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+344,TMA,51,M,,,,PDAC,3,0,0,2a,0.5,,,,,,,,1,L.ECM,,
+345,TMA,54,M,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+346,TMA,62,F,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+347,TMA,62,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,L.ECM,,
+348,TMA,68,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+349,TMA,,,,,,PDAC,,,,,1,,,,,,,,1,L.ECM,,
+350,TMA,49,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,L.ECM,,
+351,TMA,,,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+352,TMA,65,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,L.ECM,,
+353,TMA,67,M,,,,PDAC,2,1,0,2b,1,,,,,,,,1,R.ECM,,
+354,TMA,,,,,,PDAC,,,,,1,,,,,,,,1,L.ECM,,
+355,TMA,53,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+356,TMA,45,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+357,TMA,44,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+358,TMA,64,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+359,TMA,54,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+360,TMA,48,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+361,TMA,50,M,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+362,TMA,64,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+363,TMA,76,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+364,TMA,42,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+365,TMA,53,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+366,TMA,57,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+367,TMA,,,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+368,TMA,56,M,,,,PDAC,2,1,0,2b,1,,,,,,,,1,R.ECM,,
+369,TMA,,,,,,PDAC,2,1,0,1b,1,,,,,,,,1,R.ECM,,
+370,TMA,47,F,,,,PDAC,3,1,0,2b,1.5,,,,,,,,1,L.ECM,,
+371,TMA,56,M,,,,PDAC,2,0,0,1b,1.5,,,,,,,,1,R.ECM,,
+372,TMA,42,F,,,,PDAC,2,0,0,1b,1.5,,,,,,,,1,L.ECM,,
+373,TMA,68,F,,,,PDAC,2,0,0,1b,1.5,,,,,,,,1,L.ECM,,
+374,TMA,51,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+375,TMA,58,M,,,,Mucinous adenocarcinoma,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+376,TMA,71,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+377,TMA,52,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+378,TMA,72,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+379,TMA,41,M,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+380,TMA,58,F,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+381,TMA,44,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,L.ECM,,
+382,TMA,,,,,,PDAC,,,,,1.5,,,,,,,,1,R.ECM,,
+383,TMA,62,M,,,,PDAC,2,0,0,1b,1.5,,,,,,,,1,L.ECM,,
+384,TMA,60,M,,,,PDAC,3,0,0,2a,1.5,,,,,,,,1,L.ECM,,
+385,TMA,62,F,,,,PDAC,3,1,1,4,1,,,,,,,,0,L.ECM,,
+386,TMA,62,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+387,TMA,57,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+388,TMA,47,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+389,TMA,49,M,,,,Adenosquamous carcinoma,3,1,0,2b,,,,,,,,,1,L.ECM,,
+390,TMA,64,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+391,TMA,66,F,,,,PDAC,2,1,0,2b,2,,,,,,,,1,R.ECM,,
+392,TMA,68,F,,,,PDAC,3,0,0,1b,2,,,,,,,,1,R.ECM,,
+393,TMA,53,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,R.ECM,,
+394,TMA,40,M,,,,Acinic cell carcinoma,1,0,0,1a,,,,,,,,,0,L.ECM,,
+395,TMA,42,M,,,,Neuroendocrine carcinoma,3,0,0,2a,,,,,,,,,0,R.ECM,,
+396,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+397,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+398,TMA,56,M,,,,PDAC,2,1,0,2b,2,,,,,,,,1,R.ECM,,
+399,TMA,62,M,,,,Squamous cell carcinoma,3,0,0,2a,1.5,,,,,,,,0,L.ECM,,
+400,TMA,62,F,,,,Squamous cell carcinoma,2,0,0,1b,2,,,,,,,,0,L.ECM,,
+401,TMA,53,M,,,,Acinic cell carcinoma,2,0,0,1b,,,,,,,,,0,L.ECM,,
+402,TMA,,,,,,Normal,,,,,,,,,,,,,0,R.ECM,,
+403,TMA,,,,,,Normal,,,,,,,,,,,,,0,R.ECM,,
+404,TMA,,,,,,Normal,,,,,,,,,,,,,0,R.ECM,,
+405,TMA,,,,,,Normal,,,,,,,,,,,,,0,R.ECM,,
+406,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+407,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,R.ECM,,
+408,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+409,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+410,TMA,58,M,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,R.ECM,,
+411,TMA,56,M,,,,PDAC,2,1,0,2b,1,,,,,,,,1,L.ECM,,
+412,TMA,40,F,,,,PDAC,3,1,0,2b,0.5,,,,,,,,1,L.ECM,,
+413,TMA,80,M,,,,PDAC,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+414,TMA,54,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+415,TMA,55,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+416,TMA,58,F,,,,PDAC,3,1,0,2b,0,,,,,,,,1,R.ECM,,
+417,TMA,56,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+418,TMA,64,F,,,,PDAC,2,0,0,1b,,,,,,,,,1,L.ECM,,
+419,TMA,74,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+420,TMA,56,M,,,,Mucinous adenocarcinoma,2,0,0,1b,0.5,,,,,,,,1,L.ECM,,
+421,TMA,51,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,R.ECM,,
+422,TMA,51,F,,,,PDAC,3,0,0,2a,,,,,,,,,1,L.ECM,,
+423,TMA,70,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+424,TMA,77,M,,,,PDAC,1,0,0,1a,2,,,,,,,,1,R.ECM,,
+425,TMA,54,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+426,TMA,65,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,L.ECM,,
+427,TMA,55,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+428,TMA,45,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+429,TMA,66,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+430,TMA,48,F,,,,PDAC,3,1,0,2b,0.5,,,,,,,,1,L.ECM,,
+431,TMA,40,M,,,,PDAC,2,1,0,2b,0.5,,,,,,,,1,R.ECM,,
+432,TMA,71,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+433,TMA,62,F,,,,PDAC,2,1,0,2b,1,,,,,,,,1,R.ECM,,
+434,TMA,62,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,L.ECM,,
+435,TMA,57,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,R.ECM,,
+436,TMA,66,M,,,,PDAC,2,0,1,4,1.5,,,,,,,,0,R.ECM,,
+437,TMA,56,M,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+438,TMA,60,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,L.ECM,,
+439,TMA,23,F,,,,PDAC,3,0,0,2a,2,,,,,,,,1,L.ECM,,
+440,TMA,61,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+441,TMA,49,M,,,,PDAC,,,,,1,,,,,,,,1,R.ECM,,
+442,TMA,65,M,,,,PDAC,1,0,0,1a,1,,,,,,,,1,L.ECM,,
+443,TMA,54,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+444,TMA,60,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+445,TMA,65,M,,,,PDAC,,,,,1,,,,,,,,1,R.ECM,,
+446,TMA,70,F,,,,PDAC,,,,,,,,,,,,,1,L.ECM,,
+447,TMA,55,M,,,,PDAC,,,,,0,,,,,,,,1,L.ECM,,
+448,TMA,41,M,,,,Mucinous adenocarcinoma,2,0,0,1b,0.5,,,,,,,,1,R.ECM,,
+449,TMA,54,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+450,TMA,63,M,,,,PDAC,1,0,0,1a,2,,,,,,,,1,R.ECM,,
+451,TMA,,,,,,Adenosquamous carcinoma,,,,,,,,,,,,,1,R.ECM,,
+452,TMA,73,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+453,TMA,69,F,,,,PDAC,2,1,0,2b,2,,,,,,,,1,L.ECM,,
+454,TMA,63,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+455,TMA,67,M,,,,PDAC,3,0,0,2a,2,,,,,,,,1,L.ECM,,
+456,TMA,62,F,,,,PDAC,3,0,0,2a,2,,,,,,,,1,R.ECM,,
+457,TMA,55,F,,,,PDAC,1,0,0,1a,2,,,,,,,,1,L.ECM,,
+458,TMA,40,F,,,,PDAC,1,0,0,1a,2,,,,,,,,1,L.ECM,,
+459,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+460,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+461,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+462,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,L.ECM,,
+463,TMA,,,,,,Adjacent normal,,,,,,,,,,,,,0,R.ECM,,
+464,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+465,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+466,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+467,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+468,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+469,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+470,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+471,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,R.ECM,,
+472,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+473,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+474,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+475,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+476,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+477,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,R.ECM,,
+478,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+479,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,R.ECM,,
+480,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+481,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+482,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+483,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+484,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,R.ECM,,
+485,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+486,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,R.ECM,,
+487,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,R.ECM,,
+488,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+489,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,R.ECM,,
+490,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+491,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+492,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+493,TMA,,,,,,Solid pseudopapillary neoplasm,,,,,,,,,,,,,0,L.ECM,,
+494,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,L.ECM,,
+495,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,R.ECM,,
+496,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,L.ECM,,
+497,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,L.ECM,,
+498,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+499,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,L.ECM,,
+500,TMA,,,,,,Neuroendocrine neoplasm,,,,,,,,,,,,,0,L.ECM,,
+501,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+502,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+503,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+504,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+505,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+506,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+507,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+508,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+509,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+510,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+511,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+512,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+513,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+514,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+515,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+516,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+517,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+518,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+519,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+520,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+521,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+522,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+523,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+524,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+525,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+526,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+527,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+528,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+529,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+530,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+531,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,R.ECM,,
+532,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+533,TMA,,,,,,Islet cell tumor,,,,,,,,,,,,,0,L.ECM,,
+534,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+535,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+536,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+537,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+538,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+539,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+540,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+541,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+542,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+543,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+544,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+545,TMA,,,,,,Normal,,,,,,,,,,,,,0,R.ECM,,
+546,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+547,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+548,TMA,49,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,R.ECM,,
+549,TMA,67,F,,,,PDAC,3,1,0,2b,0,,,,,,,,1,R.ECM,,
+550,TMA,45,M,,,,PDAC,2,0,0,1b,0,,,,,,,,1,L.ECM,,
+551,TMA,51,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,L.ECM,,
+552,TMA,58,F,,,,PDAC,1,0,0,1a,0,,,,,,,,1,L.ECM,,
+553,TMA,56,F,,,,PDAC,2,0,0,1b,,,,,,,,,1,R.ECM,,
+554,TMA,46,M,,,,PDAC,3,0,0,2a,0,,,,,,,,1,R.ECM,,
+555,TMA,60,M,,,,PDAC,2,0,0,1b,,,,,,,,,1,L.ECM,,
+556,TMA,52,M,,,,PDAC,1,0,0,1a,,,,,,,,,1,L.ECM,,
+557,TMA,44,F,,,,PDAC,2,0,0,1b,1,,,,,,,,1,R.ECM,,
+558,TMA,55,M,,,,PDAC,3,0,0,2a,1,,,,,,,,1,R.ECM,,
+559,TMA,51,F,,,,PDAC,3,0,0,2a,1,,,,,,,,1,L.ECM,,
+560,TMA,49,M,,,,PDAC,3,1,0,2b,1,,,,,,,,1,R.ECM,,
+561,TMA,42,F,,,,PDAC,2,0,0,1b,1.5,,,,,,,,1,R.ECM,,
+562,TMA,51,M,,,,PDAC,3,0,0,2a,,,,,,,,,1,R.ECM,,
+563,TMA,61,M,,,,PDAC,3,0,1,4,2,,,,,,,,0,R.ECM,,
+564,TMA,53,F,,,,PDAC,4,2,1,4,1,,,,,,,,0,R.ECM,,
+565,TMA,54,F,,,,PDAC,2,0,0,1b,0,,,,,,,,1,R.ECM,,
+566,TMA,59,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+567,TMA,52,M,,,,PDAC,2,0,0,1b,2,,,,,,,,1,R.ECM,,
+568,TMA,52,M,,,,PDAC,2,0,0,1b,1,,,,,,,,1,L.ECM,,
+569,TMA,50,M,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+570,TMA,53,F,,,,PDAC,2,0,0,1b,2,,,,,,,,1,L.ECM,,
+571,TMA,62,M,,,,Squamous cell carcinoma,3,0,0,2a,1.5,,,,,,,,0,R.ECM,,
+572,TMA,,,,,,Mixed acinar-neuroendocrine tumor,,,,,,,,,,,,,0,L.ECM,,
+573,TMA,49,M,,,,Adenosquamous carcinoma,3,1,0,2b,,,,,,,,,1,R.ECM,,
+574,TMA,,,,,,Normal,,,,,,,,,,,,,0,L.ECM,,
+575,TMA,,,,,,Carcinoid tumor,,,,,,,,,,,,,0,L.ECM,,
+576,TMA,53,M,,,,Acinic cell carcinoma,2,0,0,1b,,,,,,,,,0,R.ECM,,
+577,UVA,89,M,Dead,644,561,PDAC,2,0,0,1b,2,2.5,19,142,N.Neoadjuvant,Y.Adjuvant,,Y.Perineural,1,R.ECM,561,Poor.Survivorship
+578,Stanford,61,M,Dead,549,124,PDAC,3,1,0,2b,1,5,70,56,N.Neoadjuvant,Y.Adjuvant,Y.Lymphovascular,Y.Perineural,1,R.ECM,124,Poor.Survivorship
+579,Stanford,,,,,,,,,,,,,,,,,,,,,,
+580,Stanford,83,F,Alive,219,,PDAC,2,0,0,1b,0,2.5,51,10,N.Neoadjuvant,,,,1,,,
+581,Stanford,61,M,Alive,934,822,PDAC,2,2,0,3,0,2.5,26,71,N.Neoadjuvant,,,,1,,822,Good.Survivorship
+582,Stanford,85,F,Dead,490,,PDAC,3,1,0,2b,0,5.8,30,,N.Neoadjuvant,,,,1,,490,Poor.Survivorship
+583,Stanford,57,M,Alive,496,,PDAC,1,0,0,1a,1.5,1.8,19,6,N.Neoadjuvant,,,,1,,,
+584,Stanford,85,M,Alive,335,,PDAC,1,2,0,3,1,1.2,32,155,N.Neoadjuvant,,,,1,,,
+585,Stanford,79,M,Alive,295,225,PDAC,1,2,0,3,0,,15,,N.Neoadjuvant,,,,1,,225,
+586,Stanford,69,F,Dead,642,488,PDAC,3,2,0,3,1,4.1,24,535,N.Neoadjuvant,,,,1,,488,Poor.Survivorship
+587,Stanford,80,M,Alive,625,,PDAC,2,1,0,2b,1,3,41,256,N.Neoadjuvant,,,,1,,,
+588,Stanford,74,F,Alive,499,475,PDAC,2,2,0,3,1,2.8,54,6129,N.Neoadjuvant,,,,1,,475,
+589,Stanford,66,M,Alive,244,,PDAC,2,1,0,2b,0,2.4,17,16,Y.Neoadjuvant,,,,1,,,
+590,Stanford,45,F,Alive,265,29,PDAC,2,0,0,1b,2,2.3,8,391,N.Neoadjuvant,,,,0,,29,
+591,Stanford,69,M,Alive,231,228,PDAC,2,1,0,2b,1,3.3,39,37,N.Neoadjuvant,,,,0,,228,
+592,Stanford,,,,,,,,,,,,,,,,,,,,,,
+593,Stanford,,,,,,,,,,,,,,,,,,,,,,
+594,Stanford,49,M,Alive,496,,PDAC,2,0,0,1b,1,2.3,38,2,N.Neoadjuvant,,,,1,,,
+595,Stanford,,,,,,,,,,,,,,,,,,,,,,
+596,Stanford,76,M,Alive,437,,PDAC,1,0,0,1a,1,1.8,21,54,N.Neoadjuvant,,,,1,,,
+597,Stanford,73,M,Alive,705,,PDAC,3,2,,,,,,,,,,,0,,,
+598,Stanford,78,M,,,,PDAC,3,2,0,3,2,3.6,28,65,,,,,1,,,
+599,Stanford,71,M,Alive,451,,PDAC,2,2,0,3,1,2.2,34,86,N.Neoadjuvant,,,,1,,,
+600,Stanford,74,M,Alive,344,,PDAC,2,2,0,3,1,2.5,25,504,N.Neoadjuvant,,,,1,,,
+601,Stanford,83,M,Dead,590,486,PDAC,3,2,0,3,1,5.5,40,895,N.Neoadjuvant,,,,0,,486,Poor.Survivorship
+602,Stanford,76,F,Dead,98,,PDAC,2,0,0,1b,2,2.8,63,,N.Neoadjuvant,,,,1,,98,Poor.Survivorship
+603,Stanford,53,M,Dead,285,213,PDAC,2,0,0,1b,2,2.2,37,225,N.Neoadjuvant,,,,1,,213,Poor.Survivorship
+604,Stanford,78,F,Alive,814,,PDAC,3,1,0,2b,1,5.2,41,25,N.Neoadjuvant,,,,1,,,Good.Survivorship
+605,Stanford,69,F,Alive,474,,PDAC,2,1,0,2b,1,3.6,23,90,N.Neoadjuvant,,,,1,,,
+606,Stanford,,,,,,,,,,,,,,,,,,,,,,
+607,Stanford,61,M,Alive,465,,PDAC,2,1,0,2b,1,3.5,22,81,N.Neoadjuvant,,,,1,,,
+608,Stanford,54,M,Alive,398,,PDAC,1,1,0,2b,1,1.8,24,,N.Neoadjuvant,,,,1,,,
+609,Stanford,80,F,Alive,359,214,Adenosquamous carcinoma,2,0,0,1b,2,3.8,34,51,N.Neoadjuvant,,,,1,,214,
+610,Stanford,,,,,,,,,,,,,,,,,,,,,,
+611,Stanford,73,F,Alive,325,,PDAC,3,1,0,2b,2,4.1,30,22,N.Neoadjuvant,,,,1,,,
+612,Stanford,75,F,Alive,302,,PDAC,2,1,0,2b,1,3.1,86,39,N.Neoadjuvant,,,,1,,,
+613,UVA,63,F,Alive,8,,PDAC,1,0,0,1a,2,0.7,12,4,N.Neoadjuvant,,,,1,,,
+614,UVA,76,M,Alive,91,74,PDAC,2,2,0,3,2,3.5,30,911,Y.Neoadjuvant,,,,1,,74,
+615,UVA,49,F,Alive,50,,PDAC,3,2,0,3,1,4.3,39,2,Y.Neoadjuvant,,,,1,,,
+616,UVA,74,F,Alive,73,,PDAC,2,1,0,2b,2,4,18,,N.Neoadjuvant,,,,1,,,
+617,UVA,65,M,Alive,71,48,PDAC,2,2,0,3,1,3.8,49,70,N.Neoadjuvant,,,,1,,48,
+618,UVA,84,M,Alive,111,,PDAC,1,0,0,1a,1,1,32,2,Y.Neoadjuvant,,,,1,,,
+619,UVA,81,F,Alive,97,,PDAC,2,0,0,1b,1,3,19,20,N.Neoadjuvant,,,,1,,,
+620,UVA,67,M,Alive,154,,PDAC,1,1,0,2b,1,1.8,31,1344,Y.Neoadjuvant,,,,1,,,
+621,UVA,84,M,Alive,57,,PDAC,2,2,0,3,1,2.2,23,2,N.Neoadjuvant,,,,1,,,
+622,UVA,66,M,Alive,164,,PDAC,3,1,0,2b,0,6.8,17,16,Y.Neoadjuvant,,,,1,,,
+623,UVA,74,F,Alive,221,,PDAC,3,2,0,3,1,4.3,28,342,Y.Neoadjuvant,,,,1,,,
+624,UVA,49,F,Alive,329,304,PDAC,2,1,0,2b,2,3.5,12,140,N.Neoadjuvant,,,,1,,304,
+625,UVA,81,F,Alive,206,,PDAC,2,1,0,2b,1,2.8,33,60,N.Neoadjuvant,,,,1,,,
+626,UVA,77,F,Alive,237,,PDAC,3,1,0,2b,1,6,16,,N.Neoadjuvant,,,,1,,,
+627,UVA,60,M,Alive,43,,PDAC,2,1,0,2b,2,3.2,15,2,N.Neoadjuvant,,,,1,,,
+628,UVA,55,M,Alive,328,,PDAC,3,0,0,2a,1,4.7,16,246,Y.Neoadjuvant,,,,1,,,
+629,UVA,72,F,Alive,322,,PDAC,2,2,0,3,,4,39,837,N.Neoadjuvant,,,,1,,,
+630,UVA,58,M,Alive,155,,PDAC,1,0,0,1a,,1.1,13,,Y.Neoadjuvant,,,,1,,,
+631,UVA,67,M,Alive,142,138,PDAC,3,1,0,2b,2,4.5,28,11,Y.Neoadjuvant,,,,1,,138,
+632,UVA,74,F,Dead,163,211,PDAC,1,2,0,3,1,2,28,214,Y.Neoadjuvant,,,,1,,211,Poor.Survivorship
+633,UVA,71,F,Alive,239,,PDAC,2,2,0,3,1,2.9,43,3984,N.Neoadjuvant,,,,1,,,
+634,UVA,50,M,Alive,82,,PDAC,1,0,0,1a,2,1.8,35,380,Y.Neoadjuvant,,,,1,,,
+635,UVA,64,F,Dead,805,629,PDAC,3,1,0,2b,0,2,16,11,N.Neoadjuvant,,,,1,,629,Good.Survivorship
+636,UVA,82,F,Dead,579,80,PDAC,2,1,1,4,1,4,29,216,N.Neoadjuvant,,,,0,,80,Poor.Survivorship
+637,UVA,71,M,Dead,8,,PDAC,2,1,0,2b,,2.5,13,2,Y.Neoadjuvant,,,,1,,8,Poor.Survivorship
+638,UVA,74,F,Dead,478,,PDAC,3,0,0,2a,1,2.5,23,5382,N.Neoadjuvant,,,,1,,478,Poor.Survivorship
+639,UVA,52,F,Alive,2314,,PDAC,1,0,0,1a,0,1.3,21,63,N.Neoadjuvant,,,,1,,,Good.Survivorship
+640,UVA,62,F,Dead,1471,1049,PDAC,3,0,0,2a,1,3,12,17,Y.Neoadjuvant,,,,1,,1049,Good.Survivorship
+641,UVA,56,M,Dead,180,,PDAC,3,1,0,2b,2,4.3,13,814,N.Neoadjuvant,,,,1,,180,Poor.Survivorship
+642,UVA,65,M,Dead,93,,PDAC,3,1,0,2b,2,4.5,18,22640,Y.Neoadjuvant,,,,1,,93,Poor.Survivorship
+643,UVA,68,M,Dead,1044,307,PDAC,3,1,0,2b,2,2.9,20,4144,N.Neoadjuvant,,,,1,,307,Good.Survivorship
+644,UVA,73,M,Dead,505,428,PDAC,3,1,0,2b,2,3,18,2,N.Neoadjuvant,,,,1,,428,Poor.Survivorship
+645,UVA,65,F,Alive,2374,,PDAC,2,0,0,1b,1,4.5,12,3464,N.Neoadjuvant,,,,1,,,Good.Survivorship
+646,UVA,58,F,Dead,626,,Adenocarcinoma,1,0,0,1a,1,0.9,21,30,N.Neoadjuvant,,,,0,,626,Poor.Survivorship
+647,UVA,62,F,Dead,57,,PDAC,3,1,0,2b,1,2.4,16,295,N.Neoadjuvant,,,,1,,57,Poor.Survivorship
+648,UVA,69,M,Dead,185,,PDAC,3,1,0,2b,2,3.4,29,310,N.Neoadjuvant,,,,1,,185,Poor.Survivorship
+649,UVA,73,F,Alive,1667,,PDAC,1,0,0,1a,,1,13,16,N.Neoadjuvant,,,,1,,,Good.Survivorship
+650,UVA,51,M,Dead,50,,PDAC,3,1,0,2b,2,,20,3265,N.Neoadjuvant,,,,1,,50,Poor.Survivorship
+651,UVA,70,F,Alive,2436,,PDAC,2,0,0,1b,1,3,43,17,N.Neoadjuvant,,,,1,,,Good.Survivorship
+652,UVA,65,M,Alive,43,,PDAC,3,1,0,2b,2,4,34,309,N.Neoadjuvant,,,,1,,,
+653,UVA,78,F,Alive,1785,,PDAC,3,0,0,2a,1,3,18,2433,N.Neoadjuvant,,,,1,,,Good.Survivorship
+654,UVA,80,M,Dead,471,316,PDAC,3,1,0,2b,1.5,3.1,15,130,N.Neoadjuvant,,,,1,,316,Poor.Survivorship
+655,UVA,57,F,Dead,692,,PDAC,3,0,0,2a,1,1.8,20,32,N.Neoadjuvant,,,,1,,692,Poor.Survivorship
+656,UVA,58,M,Alive,1975,1254,PDAC,3,0,0,2a,1.5,6.1,20,16,N.Neoadjuvant,,,,1,,1254,Good.Survivorship
+657,UVA,80,F,Dead,218,,PDAC,3,1,0,2b,1.5,3.5,7,,N.Neoadjuvant,,,,1,,218,Poor.Survivorship
+658,UVA,81,M,Dead,475,,PDAC,3,0,0,2a,2,1.5,17,2570,N.Neoadjuvant,,,,1,,475,Poor.Survivorship
+659,UVA,70,F,Dead,213,41,PDAC,3,1,0,2b,2,4,17,488,N.Neoadjuvant,,,,1,,41,Poor.Survivorship
+660,UVA,42,F,Dead,806,395,PDAC,3,0,0,2a,2,3,27,517,N.Neoadjuvant,,,,1,,395,Good.Survivorship
+661,UVA,51,M,Alive,2561,,PDAC,3,0,0,2a,,1.9,23,17,N.Neoadjuvant,,,,1,,,Good.Survivorship
+662,UVA,55,M,Dead,240,214,PDAC,3,1,0,2b,2,,19,62,Y.Neoadjuvant,,,,1,,214,Poor.Survivorship
+663,UVA,58,M,Dead,189,,PDAC,1,1,0,2b,,,14,22720,N.Neoadjuvant,,,,1,,189,Poor.Survivorship
+664,UVA,61,F,Dead,1201,1049,PDAC,3,1,0,2b,,1,27,3255,Y.Neoadjuvant,,,,1,,1049,Good.Survivorship
+665,UVA,61,M,Alive,2582,,PDAC,3,0,0,2a,1,1.4,25,517,Y.Neoadjuvant,,,,1,,,Good.Survivorship
+666,UVA,70,M,Alive,2661,1107,PDAC,3,1,0,2b,1,2.6,12,537,N.Neoadjuvant,,,,1,,1107,Good.Survivorship
